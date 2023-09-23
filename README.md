@@ -4,4 +4,4 @@
 We do not collect, store, share, or sell any of your personal information.
 
 ## Contact Us
-If you have any questions about this privacy policy, please contact us at.
+If you have any questions about this privacy policy, please contact us at [promptly.extension@gmail.com](mailto:promptly.extension@gmail.com).
